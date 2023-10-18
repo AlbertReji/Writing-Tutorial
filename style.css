@@ -1,0 +1,42 @@
+body{
+    margin:250px;
+    margin-top: 0;
+    font-family: inherit;
+}
+.navbar{
+        display: flex;
+        justify-content: space-between;
+        background-color: #fff;
+    }
+    .container{
+        display: flex;
+        align-items:center;
+    }
+    .container .items{
+        margin: 10px;
+        color: rgb(3, 3, 3);
+}
+.container .search{
+    width: 20px;
+    height: 20px;
+    padding: 20px;
+    background-color: #900;
+}
+.Home{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar2{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin: 0;
+}
+.main1{
+    margin-top: 50px;
+}
+.main2{
+    margin-top: 20px;
+}
+.main3{
+    line-height: 30px;
+    font-size: 20px;
+}
